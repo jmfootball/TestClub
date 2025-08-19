@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head><title>Teams</title></head>
+<body>
+  <h1>Our Teams</h1>
+  <ul>
+    <li><a href="u8.html">Under 8s</a></li>
+    <li><a href="u9.html">Under 9s</a></li>
+    <!-- repeat for all 40 teams -->
+  </ul>
+</body>
+</html>
